@@ -7,7 +7,7 @@
 }
 
 h1, h2, h3, h4, h5, h6, span {
-  color: 242424;
+  color: #242424;
   text-align: center;
   line-height: 1.25;
 }
@@ -39,13 +39,13 @@ nav {
 
  .nav__link--anchor {
   margin: 0 12px;
-  color: 242424;
+  color: #242424;
   text-decoration: none;
   font-weight: 700;
  }
 
  .nav__link--anchor-primary {
-  background-color: 6030b1;
+  background-color: #6030b1;
   padding: 8px 20px;
   border-radius: 50px;
   color: white;
